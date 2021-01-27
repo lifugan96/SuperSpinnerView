@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 自定义下拉框属性 -->
+    <declare-styleable name="spinnerArgs">
+        <attr name="spMargin" format="dimension"/>
+        <attr name="spTextSize" format="dimension" />
+        <attr name="spTextColor" format="color" />
+        <attr name="spBackground" format="integer" />
+        <attr name="spHeight" format="dimension" />
+        <attr name="spWidth" format="dimension" />
+        <attr name="imgBackground" format="integer" />
+        <attr name="defaultText" format="string" />
+
+        <attr name="spTextMarginRight" format="dimension" />
+        <attr name="spTextLayoutRight" format="boolean" />
+
+        <attr name="popHeight" format="integer" />
+    </declare-styleable>
+
+</resources>
