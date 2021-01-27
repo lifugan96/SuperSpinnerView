@@ -1,4 +1,6 @@
 ## SuperSpinnerView（超级下拉框）
+[![](https://jitpack.io/v/lifugan96/SuperSpinnerView.svg)](https://jitpack.io/#lifugan96/SuperSpinnerView)
+
 #### 引用
 
 ```
